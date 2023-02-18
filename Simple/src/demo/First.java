@@ -5,5 +5,6 @@ public class First {
 	{
 		
 	System.out.print("hii");
+	System.out.print("sarika");
 	}
 }
